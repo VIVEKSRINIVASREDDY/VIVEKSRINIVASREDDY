@@ -1,13 +1,4 @@
 - 👋 Hi, I’m @VIVEKSRINIVASREDDY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-VIVEKSRINIVASREDDY/VIVEKSRINIVASREDDY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->sql,data analyst,data structers
-python,html
-
-8096893596
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning DSA 
+- 📫 How to reach 8096893596
